@@ -1,5 +1,5 @@
 # poly-robust
-Matlab files for the computational experiment for the paper "On robust recovery of signals from indirect observations"
+Matlab files for the computational experiment in the paper "On robust recovery of signals from indirect observations"
 
 Uses CVX and Mosek optimization solver
 
