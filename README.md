@@ -1,5 +1,6 @@
 # poly-robust
 Matlab files for the computational experiment for the paper "On robust recovery of signals from indirect observations"
+
 Uses CVX and Mosek optimization solver
 
 Parameters of the simulation may be modified in the principal script is p2025sim.m
